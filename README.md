@@ -1,4 +1,3 @@
-
 # learn-cicd-starter (Notely)
 
 ![Tests Status](https://github.com/rojedu/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
